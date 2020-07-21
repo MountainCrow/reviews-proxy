@@ -19,6 +19,7 @@
     "http-proxy-middleware": "^1.0.5",
     "morgan": "^1.10.0",
     "newrelic": "^6.11.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0"
   }
 }
