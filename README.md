@@ -18,8 +18,8 @@ This repository particularly focuses on the proxy server that connected all thre
 
 ## Requirements
 
-Node 6.13.0
-Nodemon
+- Node 6.13.0
+- Nodemon 2.0.4
 
 ## Development
 
